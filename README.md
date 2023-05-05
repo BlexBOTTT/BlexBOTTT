@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Blix Quirante</h1>
-<h3 align="center">A computer science student that is still learning the ropes of it from the Philippines!</h3>
+<h1>Hi 👋, I'm Blix Quirante</h1>
+<h3>A computer science student that is still learning the ropes of it from the Philippines!</h3>
 
 - 🔭 I'm currently working on [Simple-Website-1](https://github.com/BlexBOTTT/Sample-Website-1)
 
