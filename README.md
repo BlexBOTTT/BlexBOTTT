@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **"Web-dev Trinity" (HTML-CSS-JS)**
 
-- 📝 I regularly write articles on [https://blexblog.wordpress.com](https://blexblog.wordpress.com)
+- 📝 I write various stuff on [https://blexblog.wordpress.com](https://blexblog.wordpress.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
