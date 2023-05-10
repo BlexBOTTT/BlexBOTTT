@@ -2,7 +2,7 @@
 <h1>Hi 👋, I'm Blix Quirante</h1>
 <h3>Your average computer science student in the Philippines</h3>
 
-- 🔭 I'm currently working on [Simple-Website-1](https://github.com/BlexBOTTT/Sample-Website-1)
+- 🔭 I'm currently working on [Sample-Website-1](https://github.com/BlexBOTTT/Sample-Website-1)
 
 - 🌱 I’m currently learning **"Web-dev Trinity" (HTML-CSS-JS)**
 
