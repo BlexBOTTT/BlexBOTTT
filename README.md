@@ -14,9 +14,8 @@
 </p>
 
 <h3 align="left">Programming Languages And Other Tools:</h3>
-| Languages and Tools | Personal evaluation (1-10/10 scaling) |
-| --- | --- |
-| <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> | 4/10 - "Web-dev trinity" languages |
+
+|  |  |
 | <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> | 5/10 - "Web-dev trinity" Markup Language |
 | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> | 4/10 - "Web-dev trinity" scripting language |
 | <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>| 4/10 - Server side scripting language |
@@ -29,7 +28,7 @@
 |  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> | 5/10 - Photo editing software |
 
 
-| Command | Description |
+| Languages and Tools | Personal evaluation (1-10/10 scaling) |
 | --- | --- |
-| git status | List all new or modified files |
+| <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> | 4/10 - "Web-dev trinity" languages |
 | git diff | Show file differences that haven't been staged |
