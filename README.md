@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently working on [Sample-Website-1](https://github.com/BlexBOTTT/Sample-Website-1), [~~mmtuts-JavaScript-Tutorial~~](https://github.com/BlexBOTTT/mmtuts-JavaScript-Tutorial)
 
-- 👯 Currently in work collaboration with [~~GCS-LP~~](https://github.com/BlexBOTTT/gcs-lp)
+- 👯 ~~Not currently in work collaboration~~
 
 - 🌱 I’m currently learning **"Web-dev Trinity" (HTML-CSS-JS)**
 
