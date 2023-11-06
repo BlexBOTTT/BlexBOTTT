@@ -1,11 +1,9 @@
 <h1>Hi 👋, I'm Blix Quirante</h1>
 <h3>Your average computer science student in the Philippines</h3>
 
-- 🔭 I'm currently working on [Sample-Website-1](https://github.com/BlexBOTTT/Sample-Website-1)
-- ~~👯 Not currently in work collaboration~~
-
-- 🌱 ~~I’m currently learning **"Web-dev Trinity" (HTML-CSS-JS)**~~ Got lost with web-dev, is currently exploring other routes/options
-
+- ~~🔭 I'm currently working on [Sample-Website-1](https://github.com/BlexBOTTT/Sample-Website-1)~~
+- 👯 Not currently in work collaboration
+- 🌱 "A long time of explorion of probable software-related specialization"
 - 📝 I write random stuff on [https://blexblog.wordpress.com](https://blexblog.wordpress.com) when I feel like it
 
 <h3 align="left">Connect with me:</h3>
