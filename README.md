@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Blix Quirante</h1>
-<h3>Your not so average computer science student in the Philippines</h3>
+<h3>Just your so average computer science student in the Philippines</h3>
 
 - 🔭 I'm currently working on ~~[Sample-Website-1](https://github.com/BlexBOTTT/Sample-Website-1)~~ [rasa admi-chatbot](https://github.com/BlexBOTTT/admi-chatbot)
 - ~~👯 Not currently in work collaboration (skill issue in all aspects)~~
