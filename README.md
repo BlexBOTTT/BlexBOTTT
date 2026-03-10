@@ -1,10 +1,10 @@
 <h1>Hi 👋, I'm Blix Quirante</h1>
 <h3>Just your so average computer science student in the Philippines</h3>
 
-- 🔭 I'm currently working on ~~[Sample-Website-1](https://github.com/BlexBOTTT/Sample-Website-1) [rasa admi-chatbot](https://github.com/BlexBOTTT/admi-chatbot)~~
-- ~~👯 Not currently in work collaboration (skill issue in all aspects)~~
-- ~~🌱 "A long time of explorion of probable software-related specialization"~~
-- ~~📝 I write random stuff on [https://blexblog.wordpress.com](https://blexblog.wordpress.com) when I feel like it (yeah, not for years to come lol)~~
+- 🔭 I'm currently working on [Sample-Website-1](https://github.com/BlexBOTTT/Sample-Website-1) [rasa admi-chatbot](https://github.com/BlexBOTTT/admi-chatbot)
+- 👯 Not currently in work collaboration (skill issue in all aspects)
+- 🌱 "A long time of explorion of probable software-related specialization"
+- 📝 I write random stuff on [https://blexblog.wordpress.com](https://blexblog.wordpress.com) when I feel like it (yeah, not for years to come lol)
 
 <h3>Connect with me:</h3>
 
